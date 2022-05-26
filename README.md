@@ -38,7 +38,6 @@ I like rice.
 
 
 # 📊GitHub Stats :
-[![](https://visitcount.itsvg.in/api?id=milkshakegum&icon=5&color=5)](https://visitcount.itsvg.in)
 ![](https://github-readme-stats.vercel.app/api?username=milkshakegum&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=milkshakegum&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=milkshakegum&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -57,7 +56,7 @@ I like rice.
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/milkshakegum) 
 
 
-
+[![](https://visitcount.itsvg.in/api?id=milkshakegum&icon=5&color=5)](https://visitcount.itsvg.in)
 
 
 <!-- 
