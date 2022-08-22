@@ -25,7 +25,7 @@ Life and its intricacies.
 
 ### 📫 How to reach me: 
 
-![](https://dcbadge.vercel.app/api/shield/716482285431685190)
+![](https://dcbadge.vercel.app/api/server/EH63kMGy5g)
 
 ### 😄 Pronouns: 
 
