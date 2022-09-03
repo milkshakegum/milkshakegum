@@ -14,12 +14,14 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C1BBEE&width=435&lines=Get+to+know+me+better" alt="Typing SVG" /></a>
 
+<a href="https://plsmilk.me"><img src="https://github.com/milkshakegum/milkshakegum/blob/main/Lighthouse_Score.png" alt="Lighthouse Score" /></a>
+
 | **Support Me** | **Connect with me** | 
 | :-------------: |:-------------:| 
 | <p><a href="https://ko-fi.com/milkshakegum"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="milkshakegum" /></a></p> | [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/invite/nBy5htDZrU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milkshakegum) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/milkshakegum) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/milkshakegum) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/milkshakegum) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@milkshakegum) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/milkshakegum) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/milkbuildsstuff) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCu1rARE88hS9qnc-KZRuu5A) | 
 | **My Spotify** | **Recent Updates** |
 | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22uefj7owginszaq4wp5ij42q&cover_image=true&theme=novatorem&bar_color=787878&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22uefj7owginszaq4wp5ij42q&redirect=true) | <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END --> 
+<!-- BLOG-POST-LIST:END --> |
 
 
 | <img src="https://github-readme-stats.vercel.app/api?username=milkshakegum&show_icons=true&theme=buefy" alt="milkshakegum" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkshakegum&layout=compact&hide=html&theme=buefy" alt="milkshakegum" /> |
