@@ -6,12 +6,13 @@
   />
 </a>
 
-
-
-<details>
-<summary>More info:        </summary>
 <br>
 
+<details>
+<summary>More info</a></summary>
+<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C1BBEE&width=435&lines=Get+to+know+me+better" alt="Typing SVG" /></a>
 
 | **Support Me** | **Connect with me** | 
 | :-------------: |:-------------:| 
@@ -21,9 +22,8 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=milkshakegum&show_icons=true&theme=buefy" alt="milkshakegum" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkshakegum&layout=compact&hide=html&theme=buefy" alt="milkshakegum" /> |
 | ------------- | ------------- |
 
-<em>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients.</em>
-<em>Feel free to <a href="https://twitter.com/milkbuildsstuff" target="_blank">contact me</a> if you want to know more about my skills.</em>
-
+  
+*Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to [contact me](https://twitter.com/milkbuildsstuff/@blank) if you want to know more about my skills.*
 
 </details>
 
