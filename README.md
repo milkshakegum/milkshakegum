@@ -14,7 +14,7 @@
 
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C1BBEE&width=435&lines=Get+to+know+me+better" alt="Typing SVG" /></a>
 
-<a href="https://plsmilk.me"><img src="https://github.com/milkshakegum/milkshakegum/blob/main/Lighthouse_Score.png" alt="Lighthouse Score" /></a>
+<a href="https://plsmilk.me"><img align="center" src="https://github.com/milkshakegum/milkshakegum/blob/main/Lighthouse_Score.png" alt="Lighthouse Score" /></a>
 
 | **Support Me** | **Connect with me** | 
 | :-------------: |:-------------:| 
