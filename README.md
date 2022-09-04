@@ -14,7 +14,7 @@
 <p align="center">
   <br>
     <a href="https://github.com/milkshakegum/milkshakegum/blob/main/header.svg">
-      <img src="https://raw.githubusercontent.com/milkshakegum/milkshakegum/04f4d7f11d6b65d9a63d18ba4a59d2908aa56342/header.svg">
+      <img src="https://raw.githubusercontent.com/milkshakegum/milkshakegum/b1f629f7be64198d27f131b4a7b84a743b46bae8/header.svg">
   </a>
   <br>
 </p>
