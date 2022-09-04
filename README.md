@@ -19,6 +19,8 @@
   <br>
 </p>
 
+![GitHub Snake dark](https://github.com/milkshakegum/milkshakegum/blob/output/github-contribution-grid-snake-dark.svg)
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=828282&center=true&vCenter=true&width=800&lines=Get+to+know+me+better..." alt="Typing SVG" /></a></a>
 </p>
