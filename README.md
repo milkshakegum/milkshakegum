@@ -60,9 +60,7 @@
 ### Recent Updates
 
 <!-- BLOG-POST-LIST:START -->
-
-
-
+- [I made the best Github ReadMe EVER!](https://dev.to/milkshakegum/i-made-the-best-github-readme-ever-42bd)
 <!-- BLOG-POST-LIST:END -->
 
 </td>
