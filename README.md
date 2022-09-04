@@ -12,7 +12,15 @@
 <br>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C1BBEE&width=435&lines=Get+to+know+me+better" alt="Typing SVG" /></a>
+  <br>
+    <a href="https://github.com/milkshakegum/milkshakegum/blob/main/header.svg">
+      <img src="https://raw.githubusercontent.com/milkshakegum/milkshakegum/c88a3da24e3e6673544706aa649ebfb896486f1e/header.svg" width="1200" height="300" alt="Click to see the source">
+  </a>
+  <br>
+</p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=828282&center=true&vCenter=true&width=800&lines=Get+to+know+me+better..." alt="Typing SVG" /></a></a>
 </p>
 
 <a href="https://plsmilk.me"><img align="center" src="https://github.com/milkshakegum/milkshakegum/blob/main/Lighthouse_Score.png" alt="Lighthouse Score" /></a>
