@@ -73,6 +73,7 @@
 					p {
             					color: #828282;
 						font-size: 20px;
+						letter-spacing: 1px;
 						text-shadow: 0 1px 0 #cacaca;
 						animation: 5s ease 0s normal forwards 1 fadeIn;
 					}
