@@ -71,6 +71,7 @@
 						animation: rotate ease-in-out 1s infinite alternate;
 					}
 					p {
+						color: #828282;
 						font-size: 20px;
 						text-shadow: 0 1px 0 #cacaca;
 						animation: 5s ease 0s normal forwards 1 fadeIn;
