@@ -11,7 +11,7 @@
 <summary>More info</a></summary>
 <br>
 
-![GitHub Snake dark](https://github.com/milkshakegum/milkshakegum/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/milkshakegum/milkshakegum/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/milkshakegum/milkshakegum/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p align="center">
   <br>
