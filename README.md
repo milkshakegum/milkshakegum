@@ -8,7 +8,7 @@
 <br>
 
 <details>
-<summary>More info</a></summary>
+<summary>Click for surprise</a></summary>
 <br>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/milkshakegum/milkshakegum/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/milkshakegum/milkshakegum/output/github-contribution-grid-snake.svg#gh-light-mode-only)
