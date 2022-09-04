@@ -50,10 +50,10 @@
 						margin: 0;
 						width: 100%;
 						height: 300px;
-						/* background: linear-gradient(-45deg, #ff8aa2, #b5c2ff, #a0fffc); */
-						background-size: 300% 200%;
+					/*	background: linear-gradient(-45deg, #ff8aa2, #b5c2ff, #a0fffc); */
+						background-size: 600% 400%;
 						animation: gradientBackground 10s ease infinite;
-						border-radius: 20px;
+						border-radius: 10px;
 						color: white;
 						text-align: center;
 					}
@@ -63,22 +63,22 @@
 						letter-spacing: 5px;
 						text-transform: uppercase;
 						text-shadow:
-							0 1px 0 #efefef,
-							0 2px 0 #efefef,
-							0 3px 0 #efefef,
-							0 4px 0 #efefef,
+							0 1px 0 #cacaca,
+							0 2px 0 #cacaca,
+							0 3px 0 #cacaca,
+							0 4px 0 #cacaca,
 							0 12px 5px rgba(0, 0, 0, 0.1);
 						animation: rotate ease-in-out 1s infinite alternate;
 					}
 					p {
 						font-size: 20px;
-						text-shadow: 0 1px 0 #efefef;
+						text-shadow: 0 1px 0 #cacaca;
 						animation: 5s ease 0s normal forwards 1 fadeIn;
 					}
 				</style>
 				<div class="container">
 					<h1>Welcome to<br/>my playground</h1>
-					<p>Where the magic happens.</p>
+					<p>This is not a gif.</p>
 				</div>
 			</div>
 		</foreignObject>
