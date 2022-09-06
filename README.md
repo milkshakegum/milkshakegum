@@ -16,17 +16,18 @@
 <p align="center">
   <br>
     <a href="https://github.com/milkshakegum/milkshakegum/blob/main/header.svg">
-      <img src="https://raw.githubusercontent.com/milkshakegum/milkshakegum/b1f629f7be64198d27f131b4a7b84a743b46bae8/header.svg">
+      <img src="https://raw.githubusercontent.com/milkshakegum/milkshakegum/b1f629f7be64198d27f131b4a7b84a743b46bae8/header.svg" 
+           alt="Girl in a jacket">
   </a>
   <br>
 </p>
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=828282&center=true&vCenter=true&width=800&lines=Get+to+know+me+better..." alt="Typing SVG" /></a></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=828282&center=true&vCenter=true&width=800&lines=Get+to+know+me+better..." alt="Typing SVG - Get to know me better" /></a></a>
 </p>
 
-<a href="https://plsmilk.me"><img align="center" src="https://github.com/milkshakegum/milkshakegum/blob/main/Lighthouse_Score.png" alt="Lighthouse Score" /></a>
+<a href="https://plsmilk.me"><img align="center" src="https://github.com/milkshakegum/milkshakegum/blob/main/Lighthouse_Score.png" alt="Lighthouse Score - 100 Friendly and the best" /></a>
 
 
 <table width="960px">
@@ -35,7 +36,7 @@
 
 ### Support Me
 
-<a href="https://ko-fi.com/milkshakegum"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" height="50" width="210" alt="milkshakegum" /></a>
+<a href="https://ko-fi.com/milkshakegum"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" height="50" width="210" alt="Support Me! Click this button" /></a>
 
 </td>
 <td valign="top" align="center" width="50%">
@@ -69,7 +70,7 @@
 </table>
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=milkshakegum&show_icons=true&theme=buefy" alt="milkshakegum" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkshakegum&layout=compact&hide=html&theme=buefy" alt="milkshakegum" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=milkshakegum&show_icons=true&theme=buefy" alt="Github Stats of Milk" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkshakegum&layout=compact&hide=html&theme=buefy" alt="Profile Stats of Milk" /> |
 | :-------------: | :-------------: |
 
   
@@ -79,7 +80,7 @@
 
 </details>
 
-<img src="https://komarev.com/ghpvc/?username=milkshakegum&label=Profile%20views&color=0e75b6&style=flat" alt="milkshakegum" />
+<img src="https://komarev.com/ghpvc/?username=milkshakegum&label=Profile%20views&color=0e75b6&style=flat" alt="Profile View counts of Milk" />
 
 <!--
 ## Hi there 👋
