@@ -80,8 +80,8 @@
 
 </details>
 
-[![Profile View counts of Milk](https://hits.sh/github.com/milkshakegum.svg?label=Explorers&extraCount=1756&color=141617)](https://hits.sh/github.com/milkshakegum/)
 
+[![Profile View counts of Milk](https://hits.sh/github.com/milkshakegum.svg?style=for-the-badge&label=Explorers&extraCount=1780&color=141617)](https://hits.sh/github.com/milkshakegum/)
 
 <!--
 <img src="https://komarev.com/ghpvc/?username=milkshakegum&label=Profile%20views&color=0e75b6&style=flat" alt="Profile View counts of Milk" />
