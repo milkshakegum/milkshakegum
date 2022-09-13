@@ -17,7 +17,7 @@
   <br>
     <a href="https://github.com/milkshakegum/milkshakegum/blob/main/header.svg">
       <img src="https://raw.githubusercontent.com/milkshakegum/milkshakegum/b1f629f7be64198d27f131b4a7b84a743b46bae8/header.svg" 
-           alt="Girl in a jacket">
+           alt="Welcome to my playground">
     </a>
   <br>
 </p>
@@ -65,7 +65,7 @@
 
 ### Listen with Me
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22uefj7owginszaq4wp5ij42q&cover_image=true&theme=novatorem&bar_color=787878&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22uefj7owginszaq4wp5ij42q&redirect=true)
+[![Spotify Github Profile](https://spotify-github-profile.vercel.app/api/view?uid=22uefj7owginszaq4wp5ij42q&cover_image=true&theme=novatorem&bar_color=787878&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22uefj7owginszaq4wp5ij42q&redirect=true)
 
 
 </td>
@@ -83,9 +83,8 @@
 </table>
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=milkshakegum&show_icons=true&theme=buefy" alt="Github Stats of Milk" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkshakegum&layout=compact&hide=html&theme=buefy" alt="Profile Stats of Milk" /> |
+| ![Github Stats of Milk](https://github-readme-stats.vercel.app/api?username=milkshakegum&show_icons=true&theme=buefy)  | ![Profile Stats of Milk](https://github-readme-stats.vercel.app/api/top-langs/?username=milkshakegum&layout=compact&hide=html&theme=buefy) |
 | :-------------: | :-------------: |
-
   
 *Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to [contact me](https://twitter.com/milkbuildsstuff/@blank) if you want to know more about my skills.*
 
