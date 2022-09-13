@@ -18,16 +18,23 @@
     <a href="https://github.com/milkshakegum/milkshakegum/blob/main/header.svg">
       <img src="https://raw.githubusercontent.com/milkshakegum/milkshakegum/b1f629f7be64198d27f131b4a7b84a743b46bae8/header.svg" 
            alt="Girl in a jacket">
-  </a>
+    </a>
   <br>
 </p>
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=828282&center=true&vCenter=true&width=800&lines=Get+to+know+me+better..." alt="Typing SVG - Get to know me better" /></a></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=828282&center=true&vCenter=true&width=800&lines=Get+to+know+me+better..."
+         alt="Typing SVG - Get to know me better" />
+  </a>
 </p>
 
-<a href="https://plsmilk.me"><img align="center" src="https://github.com/milkshakegum/milkshakegum/blob/main/Lighthouse_Score.png" alt="Lighthouse Score - 100 Friendly and the best" /></a>
+<a href="https://plsmilk.me">
+  <img align="center" 
+       src="https://github.com/milkshakegum/milkshakegum/blob/main/Lighthouse_Score.png" 
+       alt="Lighthouse Score - 100 Friendly and the best" />
+</a>
 
 
 <table width="960px">
@@ -36,7 +43,13 @@
 
 ### Support Me
 
-<a href="https://ko-fi.com/milkshakegum"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" height="50" width="210" alt="Support Me! Click this button" /></a>
+<a href="https://ko-fi.com/milkshakegum"> 
+  <img align="center" 
+       src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" 
+       height="50" 
+       width="210" 
+       alt="Support Me! Click this button" />
+</a>
 
 </td>
 <td valign="top" align="center" width="50%">
@@ -75,7 +88,6 @@
 
   
 *Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to [contact me](https://twitter.com/milkbuildsstuff/@blank) if you want to know more about my skills.*
-
 
 
 </details>
