@@ -80,10 +80,12 @@
 
 </details>
 
-<img src="https://komarev.com/ghpvc/?username=milkshakegum&label=Profile%20views&color=0e75b6&style=flat" alt="Profile View counts of Milk" />
+[![Profile View counts of Milk](https://hits.sh/github.com/milkshakegum.svg?label=Explorers&extraCount=1756&color=141617)](https://hits.sh/github.com/milkshakegum/)
 
 
 <!--
+<img src="https://komarev.com/ghpvc/?username=milkshakegum&label=Profile%20views&color=0e75b6&style=flat" alt="Profile View counts of Milk" />
+
 ## Hi there 👋
 
 You can call me Milk.
