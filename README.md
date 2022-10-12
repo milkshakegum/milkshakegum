@@ -54,15 +54,24 @@ milk                          ┌───────────────�
 
 ### Projects
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=milkshakegum&repo=portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/milkshakegum/portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=milkshakegum&repo=Portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/milkshakegum/Portfolio)
+
+[![Projects](https://github-readme-stats.vercel.app/api/pin/?username=milkshakegum&repo=Projects&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/milkshakegum/Projects)
+
+[![Packages](https://github-readme-stats.vercel.app/api/pin/?username=milkshakegum&repo=Packages&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/milkshakegum/Packages)
 
 </td>
 <td valign="top" align="center" width="50%">
 
 ### Resources
+
+[![Awesome-Resources](https://github-readme-stats.vercel.app/api/pin/?username=milkshakegum&repo=Awesome-Resources&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/milkshakegum/Awesome-Resources)
+
+[![Templates](https://github-readme-stats.vercel.app/api/pin/?username=milkshakegum&repo=Templates&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/milkshakegum/Templates)
  
 [![Notion-cms](https://github-readme-stats.vercel.app/api/pin/?username=milkshakegum&repo=notion-cms&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/milkshakegum/notion-cms)
   
+
 
 </td>
 </tr>
