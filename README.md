@@ -1,6 +1,5 @@
 [![Hi! I’m Milk! Programmed to make the world a better place.](https://github.com/milkshakegum/milkshakegum/blob/main/Github_ReadMe.png)](https://plsmilk.me)
 
-<br>
 
 <details>
 <summary>Click for surprise</a></summary>
@@ -30,20 +29,20 @@
 [![Lighthouse Score - 100 Friendly and the best](https://github.com/milkshakegum/milkshakegum/blob/main/Lighthouse_Score.png)](https://plsmilk.me)
 
 ```php
-milk                          ┌───────────────────────┐             ┌──────────────┐   |\/| | |_ |(
- ├─working-on                 |         Human         ├── has-a ───→|      Pet     |         |
- │  ├─Moon                    └───────────────────────┘             └──────────────┘                          
- │  └─Cr8s                          ↑              ↑                      ↑   ↑           (ᐠ---ᐟ\
- ├─interested-in                    |              |                      |   |           ┤ ◔_◔|
- │  └─tech                          |            is-a                     |   |           └──--─┘      /ᐠ_ᐟ\_
- │     ├─Ai                         |              |                      |   |          / /    \\    (.ᆺ.)))
- │     └─Blockchain                 |         ┌────┴─────────┐            |   |          \_\____//    /    \(
- ├─lives-in                        is-a       |    Jianna    ├── has-a ───┘   |           (_) (_)     \ __ /_) 
- │  └─Philippines                   |         └──────────────┘                |                          
- └─learning                         |                                       is-a                         |   
-    ├─Neural-Networks               |                                         |                       _  _ ___
-    ├─Clean-Architecture      ┌─────┴──────────┐                     ┌────────┴────┐                 (_ /-\ | 
-    │  └─Design-Patterns      │      Milk      ├───────has-a ───────→│     Cat     │        
+milk                          ┌───────────────────────┐             ┌──────────────┐   
+ ├─working-on                 |         Human         ├── has-a ───→|      Pet     |   |\/| | |_ |(      
+ │  ├─Moon                    └───────────────────────┘             └──────────────┘         |      
+ │  └─Cr8s                          ↑              ↑                      ↑   ↑           
+ ├─interested-in                    |              |                      |   |           (ᐠ───ᐟ\
+ │  └─tech                          |            is-a                     |   |           | ◔_◔|
+ │     ├─Ai                         |              |                      |   |           └──--─┘      /ᐠ_ᐟ\_
+ │     └─Blockchain                 |         ┌────┴─────────┐            |   |          / /    \\    (.ᆺ.)))
+ ├─lives-in                        is-a       |    Jianna    ├── has-a ───┘   |          \_\____//    /    \(  
+ │  └─Philippines                   |         └──────────────┘                |           (_) (_)     \_)(_/_) 
+ └─learning                         |                                       is-a                            
+    ├─Neural-Networks               |                                         |                          |
+    ├─Clean-Architecture      ┌─────┴──────────┐                     ┌────────┴────┐                   _  _ ___
+    │  └─Design-Patterns      │      Milk      ├───────has-a ───────→│     Cat     │                  (_ /-\ |
     └─Algorithms              └────────────────┘                     └─────────────┘        
 
 ```
