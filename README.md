@@ -38,21 +38,21 @@
 
 
 ```
-milk                         ┌───────────────────────┐             ┌──────────────┐
- ├─is-working-on             |         Human         ├── has-a ───→|      Pet     |
- │  ├─sub-branch-1           └───────────────────────┘             └──────────────┘                    
- │  └─sub-branch-2                 ↑              ↑                      ↑   ↑                 ------\\
- ├─branch-2                        |              |                      |   |                 ┤ ^_^ |
- │  └─sub-branch-3                 |            is-a                     |   |                 └──-──┘  
- │     ├─a                         |              |                      |   |       
- │     └─b                         |         ┌────┴─────────┐            |   |
- ├─branch-3                       is-a       |    Jianna    ├── has-a ───┘   |                          
- │  └─sub-branch-4                 |         └──────────────┘                |                       _ _ _
- └─branch-4                        |                                       is-a                _ __ (_) | |__   
-    ├─sub-branch-5                 |                                         |                | '  \| | | / /   
-    ├─sub-branch-6           ┌─────┴──────────┐                     ┌────────┴────┐           |_|_|_|_|_|_\_\ 
-    │  └─c                   │      Milk      ├───────has-a ───────→│     Cat     │             
-    └─sub-branch-7           └────────────────┘                     └─────────────┘
+milk                          ┌───────────────────────┐             ┌──────────────┐
+ ├─is-working-on              |         Human         ├── has-a ───→|      Pet     |
+ │  ├─moon                    └───────────────────────┘             └──────────────┘                    
+ │  └─cr8s                          ↑              ↑                      ↑   ↑                 ------\\
+ ├─interested-in                    |              |                      |   |                 ┤ ^_^ |
+ │  └─tech                          |            is-a                     |   |                 └──-──┘  
+ │     ├─ai                         |              |                      |   |       
+ │     └─blockchain                 |         ┌────┴─────────┐            |   |
+ ├─lives-in                        is-a       |    Jianna    ├── has-a ───┘   |                          
+ │  └─Philippines                   |         └──────────────┘                |                       _ _ _
+ └─learning                         |                                       is-a                _ __ (_) | |__   
+    ├─neural-networks               |                                         |                | '  \| | | / /   
+    ├─clean-architecture      ┌─────┴──────────┐                     ┌────────┴────┐           |_|_|_|_|_|_\_\ 
+    │  └─design-patterns      │      Milk      ├───────has-a ───────→│     Cat     │             
+    └─algorithms              └────────────────┘                     └─────────────┘
 
 ```
 
@@ -86,22 +86,25 @@ milk                         ┌────────────────
 <tr>
 <td valign="top" align="center" width="50%">
 
-### Support Me
+### Github Stats
 
-<a href="https://ko-fi.com/milkshakegum"> 
-  <img align="center" 
-       src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" 
-       height="50" 
-       width="210" 
-       alt="Support Me! Click this button" />
+<a href="https://github.com/milkshakegum">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=milkshakegum&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&count_private=true&include_all_commits=true&hide_border=true&hide_title=true"
+  alt="Github Stats of Milk"
+  />
 </a>
 
 </td>
 <td valign="top" align="center" width="50%">
 
-### Connect with me
+### Language Stats
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=for-the-badge&logoColor=white&color=141617)](htttps://discord.gg/https://discord.com/invite/nBy5htDZrU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge&logoColor=white&color=141617)](https://instagram.com/milkshakegum) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&style=for-the-badge&logoColor=white&color=141617)](https://pinterest.com/milkshakegum) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&style=for-the-badge&logoColor=white&color=141617)](https://reddit.com/user/milkshakegum) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&style=for-the-badge&logoColor=white&color=141617)](https://stackoverflow.com/users/milkshakegum) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&style=for-the-badge&logoColor=white&color=141617)](https://tiktok.com/@milkshakegum) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&style=for-the-badge&logoColor=white&color=141617)](https://twitch.tv/milkshakegum) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=for-the-badge&logoColor=white&color=141617)](https://twitter.com/milkbuildsstuff) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&style=for-the-badge&logoColor=white&color=141617)](https://youtube.com/c/UCu1rARE88hS9qnc-KZRuu5A)
+<a href="https://github.com/milkshakegum">
+  <img align="center" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkshakegum&layout=compact&hide=html&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&card_width=480&text_bold=true&langs_count=10&hide_border=true&hide_title=true"
+  alt="Profile Stats of Milk"
+  />
+</a>
 
 </td>
 </tr>
@@ -127,25 +130,23 @@ milk                         ┌────────────────
 <tr>
 <td valign="top" align="center" width="50%">
 
-### Github Stats
+### Support Me
 
-<a href="https://github.com/milkshakegum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=milkshakegum&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&count_private=true&include_all_commits=true&hide_border=true&hide_title=true"
-  alt="Github Stats of Milk"
-  />
+<a href="https://ko-fi.com/milkshakegum"> 
+  <img align="center" 
+       src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" 
+       height="50" 
+       width="210" 
+       alt="Support Me! Click this button" />
 </a>
+
 
 </td>
 <td valign="top" align="center" width="50%">
 
-### Language Stats
+### Connect with me
 
-<a href="https://github.com/milkshakegum">
-  <img align="center" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkshakegum&layout=compact&hide=html&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&card_width=480&text_bold=true&langs_count=10&hide_border=true&hide_title=true"
-  alt="Profile Stats of Milk"
-  />
-</a>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=for-the-badge&logoColor=white&color=141617)](htttps://discord.gg/https://discord.com/invite/nBy5htDZrU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge&logoColor=white&color=141617)](https://instagram.com/milkshakegum) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&style=for-the-badge&logoColor=white&color=141617)](https://pinterest.com/milkshakegum) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&style=for-the-badge&logoColor=white&color=141617)](https://reddit.com/user/milkshakegum) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&style=for-the-badge&logoColor=white&color=141617)](https://stackoverflow.com/users/milkshakegum) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&style=for-the-badge&logoColor=white&color=141617)](https://tiktok.com/@milkshakegum) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&style=for-the-badge&logoColor=white&color=141617)](https://twitch.tv/milkshakegum) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=for-the-badge&logoColor=white&color=141617)](https://twitter.com/milkbuildsstuff) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&style=for-the-badge&logoColor=white&color=141617)](https://youtube.com/c/UCu1rARE88hS9qnc-KZRuu5A)
 
 </td>
 </tr>
