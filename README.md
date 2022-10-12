@@ -63,8 +63,8 @@ milk                          ┌───────────────�
 
 ### Projects
 
-<a href="https://github.com/milkshakegum/portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milkshakegum&repo=portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=milkshakegum&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&count_private=true&include_all_commits=true&hide_border=true&hide_title=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=milkshakegum&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&count_private=true&include_all_commits=true&hide_border=true&hide_title=true" />
   </a>
 
 <br>
@@ -74,7 +74,7 @@ milk                          ┌───────────────�
 
 ### Templates
 
-<a href="https://github.com/milkshakegum/notion-cms">
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=milkshakegum&repo=notion-cms&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milkshakegum&repo=notion-cms&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true" />
   </a>
   
