@@ -146,7 +146,15 @@ milk                          ┌───────────────�
 
 ### Connect with me
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=for-the-badge&logoColor=white&color=141617)](htttps://discord.gg/https://discord.com/invite/nBy5htDZrU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge&logoColor=white&color=141617)](https://instagram.com/milkshakegum) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&style=for-the-badge&logoColor=white&color=141617)](https://pinterest.com/milkshakegum) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&style=for-the-badge&logoColor=white&color=141617)](https://reddit.com/user/milkshakegum) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&style=for-the-badge&logoColor=white&color=141617)](https://stackoverflow.com/users/milkshakegum) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&style=for-the-badge&logoColor=white&color=141617)](https://tiktok.com/@milkshakegum) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&style=for-the-badge&logoColor=white&color=141617)](https://twitch.tv/milkshakegum) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=for-the-badge&logoColor=white&color=141617)](https://twitter.com/milkbuildsstuff) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&style=for-the-badge&logoColor=white&color=141617)](https://youtube.com/c/UCu1rARE88hS9qnc-KZRuu5A)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=for-the-badge&logoColor=white&color=141617)](htttps://discord.gg/https://discord.com/invite/nBy5htDZrU) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge&logoColor=white&color=141617)](https://instagram.com/milkshakegum) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&style=for-the-badge&logoColor=white&color=141617)](https://pinterest.com/milkshakegum) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&style=for-the-badge&logoColor=white&color=141617)](https://reddit.com/user/milkshakegum) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&style=for-the-badge&logoColor=white&color=141617)](https://stackoverflow.com/users/milkshakegum) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&style=for-the-badge&logoColor=white&color=141617)](https://tiktok.com/@milkshakegum) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&style=for-the-badge&logoColor=white&color=141617)](https://twitch.tv/milkshakegum) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=for-the-badge&logoColor=white&color=141617)](https://twitter.com/milkbuildsstuff) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&style=for-the-badge&logoColor=white&color=141617)](https://youtube.com/c/UCu1rARE88hS9qnc-KZRuu5A)
 
 </td>
 </tr>
