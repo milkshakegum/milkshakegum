@@ -1,9 +1,4 @@
-<a href="https://plsmilk.me">
-  <img
-    alt="Hi! I’m Milk! Programmed to make the world a better place."
-    src="https://github.com/milkshakegum/milkshakegum/blob/main/Github_ReadMe.png"
-  />
-</a>
+[![Hi! I’m Milk! Programmed to make the world a better place.](https://github.com/milkshakegum/milkshakegum/blob/main/Github_ReadMe.png)](https://plsmilk.me)
 
 <br>
 
@@ -25,17 +20,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=828282&center=true&vCenter=true&width=800&lines=Get+to+know+me+better..."
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=828282&center=true&vCenter=true&width=960&lines=Get+to+know+me+better..."
          alt="Typing SVG - Get to know me better" />
   </a>
 </p>
 
-<a href="https://plsmilk.me">
-  <img align="center" 
-       src="https://github.com/milkshakegum/milkshakegum/blob/main/Lighthouse_Score.png" 
-       alt="Lighthouse Score - 100 Friendly and the best" />
-</a>
 
+
+[![Lighthouse Score - 100 Friendly and the best](https://github.com/milkshakegum/milkshakegum/blob/main/Lighthouse_Score.png)](https://plsmilk.me)
 
 ```php
 milk                          ┌───────────────────────┐             ┌──────────────┐   |\/| | |_ |(
