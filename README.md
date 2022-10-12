@@ -38,21 +38,21 @@
 
 
 ```
-milk                          ┌───────────────────────┐             ┌──────────────┐
- ├─is-working-on              |         Human         ├── has-a ───→|      Pet     |
- │  ├─moon                    └───────────────────────┘             └──────────────┘                    
+milk                          ┌───────────────────────┐             ┌──────────────┐   |\/| | |_ |(
+ ├─is-working-on              |         Human         ├── has-a ───→|      Pet     |         |
+ │  ├─moon                    └───────────────────────┘             └──────────────┘                          
  │  └─cr8s                          ↑              ↑                      ↑   ↑           /ᐠ---ᐟ\\
  ├─interested-in                    |              |                      |   |           ┤ ◔_◔|
  │  └─tech                          |            is-a                     |   |           └──-──┘      /ᐠ_ᐟ\,
  │     ├─ai                         |              |                      |   |          / /    \\    (.ᆺ.)))
  │     └─blockchain                 |         ┌────┴─────────┐            |   |          \_\____//    /    \(
- ├─lives-in                        is-a       |    Jianna    ├── has-a ───┘   |          `()   ()`    \ __ /_)
- │  └─Philippines                   |         └──────────────┘                |            
- └─learning                         |                                       is-a                 
-    ├─neural-networks               |                                         |                   _ _ _   
-    ├─clean-architecture      ┌─────┴──────────┐                     ┌────────┴────┐        _ __ (_) | |__ 
-    │  └─design-patterns      │      Milk      ├───────has-a ───────→│     Cat     │       | '  \| | | / / 
-    └─algorithms              └────────────────┘                     └─────────────┘       |_|_|_|_|_|_\_\
+ ├─lives-in                        is-a       |    Jianna    ├── has-a ───┘   |           (_) (_)     \ __ /_)
+ │  └─Philippines                   |         └──────────────┘                |                          
+ └─learning                         |                                       is-a                         |   
+    ├─neural-networks               |                                         |                       _  _  |_
+    ├─clean-architecture      ┌─────┴──────────┐                     ┌────────┴────┐                 (_ (_| | 
+    │  └─design-patterns      │      Milk      ├───────has-a ───────→│     Cat     │        
+    └─algorithms              └────────────────┘                     └─────────────┘        
 
 ```
 
