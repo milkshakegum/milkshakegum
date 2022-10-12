@@ -68,7 +68,7 @@ milk                          ┌───────────────�
 </td>
 <td valign="top" align="center" width="50%">
 
-### Templates
+### Resources
  
 [![Notion-cms](https://github-readme-stats.vercel.app/api/pin/?username=milkshakegum&repo=notion-cms&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=141617&hide_border=true)](https://github.com/milkshakegum/notion-cms)
   
