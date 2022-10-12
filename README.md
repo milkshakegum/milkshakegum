@@ -36,6 +36,12 @@
        alt="Lighthouse Score - 100 Friendly and the best" />
 </a>
 
+<a href="https://github.com/milkshakegum/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milkshakegum&repo=portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
+<a href="https://github.com/milkshakegum/notion-cms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milkshakegum&repo=notion-cms&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</a>
 
 <table width="960px">
 <tr>
